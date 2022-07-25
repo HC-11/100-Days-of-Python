@@ -1,4 +1,0 @@
-#Writing a question name, then how long is the input
-string = input("Enter the string : ")
-
-print("The string length is : ",len(string))
